@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[say:home|Door43 (say)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-say|d43-say repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-say/archive/master.zip|d43-say.zip]]
+
+**Recent Changes**
+{{changes>ns = say}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/say|Ethnologue data]]
+
